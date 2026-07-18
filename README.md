@@ -1,3 +1,1 @@
-# AlgaShop Billing
-
-Billing microservice for AlgaShop.
+# ems-algashop-billing
